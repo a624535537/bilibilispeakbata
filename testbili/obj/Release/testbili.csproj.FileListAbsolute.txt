@@ -1,0 +1,12 @@
+d:\Documents\Visual Studio 2015\Projects\testbili\testbili\bin\Release\testbili.exe.config
+d:\Documents\Visual Studio 2015\Projects\testbili\testbili\obj\Release\Interop.MediaPlayer.dll
+d:\Documents\Visual Studio 2015\Projects\testbili\testbili\obj\Release\Interop.WMPLib.dll
+d:\Documents\Visual Studio 2015\Projects\testbili\testbili\obj\Release\testbili.csproj.ResolveComReference.cache
+d:\Documents\Visual Studio 2015\Projects\testbili\testbili\obj\Release\testbili.exe
+d:\Documents\Visual Studio 2015\Projects\testbili\testbili\obj\Release\testbili.pdb
+d:\Documents\Visual Studio 2015\Projects\testbili\testbili\bin\Release\testbili.exe
+d:\Documents\Visual Studio 2015\Projects\testbili\testbili\bin\Release\testbili.pdb
+d:\Documents\Visual Studio 2015\Projects\testbili\testbili\obj\Release\testbili.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2015\Projects\testbili\testbili\obj\Release\testbili.Form1.resources
+d:\Documents\Visual Studio 2015\Projects\testbili\testbili\obj\Release\testbili.Properties.Resources.resources
+d:\Documents\Visual Studio 2015\Projects\testbili\testbili\obj\Release\testbili.csproj.GenerateResource.Cache

@@ -1,0 +1,19 @@
+.cell{
+	position: relative;
+	margin: 0px;
+	float: left;
+	width: 40px;
+	height: 40px;
+
+}
+.row
+{
+    min-height: 40px;
+	position: relative;
+	height: auto;
+}
+.main{
+	height: auto;
+	width: auto;
+
+}
